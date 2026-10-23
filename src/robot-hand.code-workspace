@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../robot-hand"
+		},
+		{
+			"name": "Robot Hand",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
